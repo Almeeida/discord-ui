@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/discord.almeidx.me/static/js/main.f92baa8f.chunk.js",
-    "main.js.map": "/discord.almeidx.me/static/js/main.f92baa8f.chunk.js.map",
-    "runtime-main.js": "/discord.almeidx.me/static/js/runtime-main.6cfab551.js",
-    "runtime-main.js.map": "/discord.almeidx.me/static/js/runtime-main.6cfab551.js.map",
-    "static/js/2.ac6acdf9.chunk.js": "/discord.almeidx.me/static/js/2.ac6acdf9.chunk.js",
-    "static/js/2.ac6acdf9.chunk.js.map": "/discord.almeidx.me/static/js/2.ac6acdf9.chunk.js.map",
-    "index.html": "/discord.almeidx.me/index.html",
-    "precache-manifest.3b7d7980959cb3f1d78d644ad1d66b3d.js": "/discord.almeidx.me/precache-manifest.3b7d7980959cb3f1d78d644ad1d66b3d.js",
-    "service-worker.js": "/discord.almeidx.me/service-worker.js",
-    "static/js/2.ac6acdf9.chunk.js.LICENSE.txt": "/discord.almeidx.me/static/js/2.ac6acdf9.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/discord.almeidx.me/static/media/logo.f4990c85.png"
+    "main.js": "/static/js/main.f92baa8f.chunk.js",
+    "main.js.map": "/static/js/main.f92baa8f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.54ad6cb6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.54ad6cb6.js.map",
+    "static/js/2.58f0d428.chunk.js": "/static/js/2.58f0d428.chunk.js",
+    "static/js/2.58f0d428.chunk.js.map": "/static/js/2.58f0d428.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9780c9bcc38cc6cd26e2ca81e14d406f.js": "/precache-manifest.9780c9bcc38cc6cd26e2ca81e14d406f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.58f0d428.chunk.js.LICENSE.txt": "/static/js/2.58f0d428.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/static/media/logo.f4990c85.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cfab551.js",
-    "static/js/2.ac6acdf9.chunk.js",
+    "static/js/runtime-main.54ad6cb6.js",
+    "static/js/2.58f0d428.chunk.js",
     "static/js/main.f92baa8f.chunk.js"
   ]
 }
